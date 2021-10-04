@@ -5,15 +5,15 @@ This notebook encomapsses data cleaning & peprepation of a product_trial data , 
 
 ## Method
 
-a. Pull the trial_data
-b. Replace all the null values in channels with 0
-c. add the column active_trial which is defined as client having at least 1 channel
-d. Create a region column and categorise the client in following regions
-i. United States/ Canada/Mexico - North America
-ii. Ireland/United Kingdom - UK/Ireland
-iii. France/Germany/Italy/Spain - EU Main
-iv. Other countries - ROW
-e. Export the newly updated table into a CSV/Excel
+a. Pull the trial_data\
+b. Replace all the null values in channels with 0\
+c. add the column active_trial which is defined as client having at least 1 channel\
+d. Create a region column and categorise the client in following regions\
+  i. United States/ Canada/Mexico - North America\
+  ii. Ireland/United Kingdom - UK/Ireland\
+  iii. France/Germany/Italy/Spain - EU Main\
+  iv. Other countries - ROW\
+e. Export the newly updated table into a CSV/Excel\
 
 ## Implementation
 
