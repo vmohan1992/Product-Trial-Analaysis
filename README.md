@@ -13,7 +13,7 @@ d. Create a region column and categorise the client in following regions\
   ii. Ireland/United Kingdom - UK/Ireland\
   iii. France/Germany/Italy/Spain - EU Main\
   iv. Other countries - ROW\
-e. Export the newly updated table into a CSV/Excel\
+e. Export the newly updated table into a CSV/Excel
 
 ## Implementation
 
