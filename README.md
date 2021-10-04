@@ -18,7 +18,7 @@ e. Export the newly updated table into a CSV/Excel
 ## Implementation
 
 
-Download and save the data in the working directory
-Clone the [repository](https://github.com/vmohan1992/Product-Trial-Analaysis)  using Git
-Open the .ipynb filte in the IDE
+Download and save the data in the working directory\
+Clone the [repository](https://github.com/vmohan1992/Product-Trial-Analaysis)  using Git\
+Open the .ipynb filte in the IDE\
 Run the code
