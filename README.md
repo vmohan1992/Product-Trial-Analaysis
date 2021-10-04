@@ -1,4 +1,4 @@
-# Product-Trial-Analaysis
+# Product-Trial-Analysis
 
 This notebook encomapsses data cleaning & peprepation of a product_trial data , particularly using pandas library. that can be used for further downstream analaysis.
 
